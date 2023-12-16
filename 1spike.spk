@@ -1,0 +1,7 @@
+# 1spike.spk
+# https://github.com/hungryrussian/bufferoverflowtoolkit
+# Usage: generic_send_tcp 192.168.1.90 9999 1spike.spk 0 0
+
+s_readline();
+s_string("");
+s_string_variable("0");
